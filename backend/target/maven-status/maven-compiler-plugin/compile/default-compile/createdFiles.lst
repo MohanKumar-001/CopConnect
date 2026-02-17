@@ -1,0 +1,13 @@
+com\copconnect\entity\User.class
+com\copconnect\entity\Sighting.class
+com\copconnect\repository\SightingRepository.class
+com\copconnect\repository\ComplaintRepository.class
+com\copconnect\controller\UserController.class
+com\copconnect\repository\SOSAlertRepository.class
+com\copconnect\entity\Complaint.class
+com\copconnect\entity\RewardLog.class
+com\copconnect\entity\Role.class
+com\copconnect\repository\RewardLogRepository.class
+com\copconnect\service\CustomUserDetailsService.class
+com\copconnect\entity\SOSAlert.class
+com\copconnect\repository\UserRepository.class
