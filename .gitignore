@@ -1,0 +1,17 @@
+# Local secrets
+**/.env
+
+# Java / Maven build output and dependency cache
+**/target/
+.m2/
+
+# Node / Expo generated files and dependency cache
+**/node_modules/
+**/.expo/
+.npm-cache/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+*.log
+.DS_Store
